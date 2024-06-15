@@ -10,3 +10,7 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhamdukare123/leetcode/tree/master/0001-two-sum) |
+# Math
+|  |
+| ------- |
+| [1279-prime-arrangements](https://github.com/shubhamdukare123/leetcode/tree/master/1279-prime-arrangements) |
