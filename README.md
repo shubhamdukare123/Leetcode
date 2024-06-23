@@ -8,12 +8,14 @@ this repository is created for maintain my leetcode solved problem codes created
 | [0001-two-sum](https://github.com/shubhamdukare123/leetcode/tree/master/0001-two-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/shubhamdukare123/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shubhamdukare123/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/shubhamdukare123/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 # Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhamdukare123/leetcode/tree/master/0001-two-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/shubhamdukare123/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shubhamdukare123/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/shubhamdukare123/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 # Math
 |  |
 | ------- |
@@ -27,3 +29,7 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/shubhamdukare123/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+# Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/shubhamdukare123/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
