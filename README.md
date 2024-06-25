@@ -33,3 +33,11 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shubhamdukare123/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+# Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/shubhamdukare123/leetcode/tree/master/1894-merge-strings-alternately) |
+# String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/shubhamdukare123/leetcode/tree/master/1894-merge-strings-alternately) |
