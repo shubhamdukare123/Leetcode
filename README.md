@@ -9,6 +9,7 @@ this repository is created for maintain my leetcode solved problem codes created
 | [1256-rank-transform-of-an-array](https://github.com/shubhamdukare123/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shubhamdukare123/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shubhamdukare123/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/shubhamdukare123/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 # Hash Table
 |  |
 | ------- |
