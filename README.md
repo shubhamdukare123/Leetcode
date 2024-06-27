@@ -6,6 +6,7 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhamdukare123/leetcode/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/shubhamdukare123/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/shubhamdukare123/leetcode/tree/master/0605-can-place-flowers) |
 | [1256-rank-transform-of-an-array](https://github.com/shubhamdukare123/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shubhamdukare123/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -51,3 +52,7 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/shubhamdukare123/leetcode/tree/master/0605-can-place-flowers) |
+# Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shubhamdukare123/leetcode/tree/master/0238-product-of-array-except-self) |
