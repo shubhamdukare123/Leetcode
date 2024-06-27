@@ -21,6 +21,7 @@ this repository is created for maintain my leetcode solved problem codes created
 # Math
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/shubhamdukare123/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1279-prime-arrangements](https://github.com/shubhamdukare123/leetcode/tree/master/1279-prime-arrangements) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shubhamdukare123/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Sorting
@@ -42,6 +43,7 @@ this repository is created for maintain my leetcode solved problem codes created
 # String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/shubhamdukare123/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/shubhamdukare123/leetcode/tree/master/1894-merge-strings-alternately) |
 # Greedy
 |  |
