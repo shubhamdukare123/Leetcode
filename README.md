@@ -56,3 +56,14 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shubhamdukare123/leetcode/tree/master/0238-product-of-array-except-self) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shubhamdukare123/leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shubhamdukare123/leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
