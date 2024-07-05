@@ -63,6 +63,7 @@ this repository is created for maintain my leetcode solved problem codes created
 | ------- |
 | [0001-two-sum](https://github.com/shubhamdukare123/leetcode/tree/master/0001-two-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/shubhamdukare123/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [3429-special-array-i](https://github.com/shubhamdukare123/leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
