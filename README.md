@@ -76,11 +76,13 @@ this repository is created for maintain my leetcode solved problem codes created
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shubhamdukare123/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/shubhamdukare123/leetcode/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/shubhamdukare123/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shubhamdukare123/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/shubhamdukare123/leetcode/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/shubhamdukare123/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
