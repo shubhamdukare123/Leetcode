@@ -96,4 +96,8 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamdukare123/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/shubhamdukare123/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
