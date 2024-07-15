@@ -65,6 +65,7 @@ this repository is created for maintain my leetcode solved problem codes created
 | [0334-increasing-triplet-subsequence](https://github.com/shubhamdukare123/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhamdukare123/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shubhamdukare123/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1899-count-items-matching-a-rule](https://github.com/shubhamdukare123/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [3429-special-array-i](https://github.com/shubhamdukare123/leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ this repository is created for maintain my leetcode solved problem codes created
 | [0392-is-subsequence](https://github.com/shubhamdukare123/leetcode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamdukare123/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/shubhamdukare123/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1899-count-items-matching-a-rule](https://github.com/shubhamdukare123/leetcode/tree/master/1899-count-items-matching-a-rule) |
 ## Greedy
 |  |
 | ------- |
