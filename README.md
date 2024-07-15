@@ -66,6 +66,7 @@ this repository is created for maintain my leetcode solved problem codes created
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhamdukare123/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shubhamdukare123/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1899-count-items-matching-a-rule](https://github.com/shubhamdukare123/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/shubhamdukare123/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3429-special-array-i](https://github.com/shubhamdukare123/leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
