@@ -65,6 +65,7 @@ this repository is created for maintain my leetcode solved problem codes created
 | [0334-increasing-triplet-subsequence](https://github.com/shubhamdukare123/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhamdukare123/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shubhamdukare123/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1833-find-the-highest-altitude](https://github.com/shubhamdukare123/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/shubhamdukare123/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/shubhamdukare123/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3429-special-array-i](https://github.com/shubhamdukare123/leetcode/tree/master/3429-special-array-i) |
@@ -104,4 +105,8 @@ this repository is created for maintain my leetcode solved problem codes created
 | ------- |
 | [0584-find-customer-referee](https://github.com/shubhamdukare123/leetcode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/shubhamdukare123/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/shubhamdukare123/leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
