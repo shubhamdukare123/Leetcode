@@ -102,6 +102,7 @@ this repository is created for maintain my leetcode solved problem codes created
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shubhamdukare123/leetcode/tree/master/0050-powx-n) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamdukare123/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Database
 |  |
@@ -116,4 +117,8 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/shubhamdukare123/leetcode/tree/master/1833-find-the-highest-altitude) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shubhamdukare123/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
