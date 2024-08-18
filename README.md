@@ -75,6 +75,7 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhamdukare123/leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/shubhamdukare123/leetcode/tree/master/0202-happy-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhamdukare123/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ this repository is created for maintain my leetcode solved problem codes created
 | [0011-container-with-most-water](https://github.com/shubhamdukare123/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shubhamdukare123/leetcode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhamdukare123/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/shubhamdukare123/leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/shubhamdukare123/leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/shubhamdukare123/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -105,6 +107,7 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shubhamdukare123/leetcode/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/shubhamdukare123/leetcode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamdukare123/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Database
 |  |
