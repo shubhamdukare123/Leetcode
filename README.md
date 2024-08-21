@@ -96,6 +96,7 @@ this repository is created for maintain my leetcode solved problem codes created
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamdukare123/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/shubhamdukare123/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/shubhamdukare123/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/shubhamdukare123/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
 |  |
 | ------- |
@@ -134,4 +135,8 @@ this repository is created for maintain my leetcode solved problem codes created
 | ------- |
 | [0015-3sum](https://github.com/shubhamdukare123/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/shubhamdukare123/leetcode/tree/master/0088-merge-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/shubhamdukare123/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 <!---LeetCode Topics End-->
