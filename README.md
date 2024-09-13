@@ -108,12 +108,14 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/shubhamdukare123/leetcode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/shubhamdukare123/leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shubhamdukare123/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shubhamdukare123/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shubhamdukare123/leetcode/tree/master/0202-happy-number) |
+| [1013-fibonacci-number](https://github.com/shubhamdukare123/leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamdukare123/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Database
 |  |
@@ -134,6 +136,7 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shubhamdukare123/leetcode/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/shubhamdukare123/leetcode/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -143,4 +146,8 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/shubhamdukare123/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/shubhamdukare123/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
