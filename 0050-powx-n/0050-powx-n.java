@@ -1,23 +1,20 @@
 class Solution {
     public double myPow(double x, int n) {
-        
-        if(n < 0){
-            n = -n;
-            x = 1 / x;
-        }
-        
-        double pow = 1;
-        
-        while(n != 0){
-            if((n & 1) != 0){
-                pow *= x;
-            } 
-                
-            x *= x;
-            n >>>= 1;
-            
-        }
-        
-        return pow;
+        // if(n == 1)
+        //     return 0;
+        // if(n<0) {
+        //     n = -n;
+        // }    
+        // int i=1;
+        // double num = x;
+        // while(i<n) {
+        //     x = x*num;
+        //     i++;
+        // }
+        // if(n<0) {
+        //     return 
+        // }
+        // return x;
+        return Math.pow(x, n);
     }
 }
