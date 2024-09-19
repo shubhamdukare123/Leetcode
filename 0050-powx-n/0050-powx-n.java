@@ -15,7 +15,7 @@ class Solution {
         }
         
         if(n< 0) {
-            return 1.0/ans;
+            return 1/ans;
         }
 
         return ans;
