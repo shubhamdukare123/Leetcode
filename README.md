@@ -113,6 +113,7 @@ this repository is created for maintain my leetcode solved problem codes created
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shubhamdukare123/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/shubhamdukare123/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shubhamdukare123/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shubhamdukare123/leetcode/tree/master/0202-happy-number) |
