@@ -1,4 +1,3 @@
-
 class Solution {
     public int reverse(int x) {
         long reverse = 0;
