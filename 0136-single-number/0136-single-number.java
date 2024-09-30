@@ -1,24 +1,22 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        for(int i=0; i<nums.length; i++) {
-            boolean elemFound = false;
+        HashMap<Integer, Integer> hm = new HashMap<>();
 
-            for(int j=0; j<nums.length; j++) {
-                if(i==j) {
-                    continue;
-                }
-
-                if(nums[i] == nums[j]) {
-                    elemFound = true;
-                    break;
-                }
+        for(int i=0; i<nums.length; i++) {  
+            if(!hm.containsKey(nums[i])) {
+                hm.put(nums[i], 1);
+            }else{
+                hm.put(nums[i], 2);
             }
+        }
 
-            if(elemFound == false) {
+        for(int i=0; i<nums.length; i++) {
+            if(hm.get(nums[i]) == 1) {
                 return nums[i];
             }
         }
 
         return 0;
+
     }
 }
