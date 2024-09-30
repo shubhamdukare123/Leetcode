@@ -69,6 +69,7 @@ this repository is created for maintain my leetcode solved problem codes created
 | [0189-rotate-array](https://github.com/shubhamdukare123/leetcode/tree/master/0189-rotate-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/shubhamdukare123/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhamdukare123/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/shubhamdukare123/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shubhamdukare123/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/shubhamdukare123/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/shubhamdukare123/leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -157,4 +158,12 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shubhamdukare123/leetcode/tree/master/0136-single-number) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/shubhamdukare123/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/shubhamdukare123/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
