@@ -65,6 +65,7 @@ this repository is created for maintain my leetcode solved problem codes created
 | [0011-container-with-most-water](https://github.com/shubhamdukare123/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shubhamdukare123/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/shubhamdukare123/leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/shubhamdukare123/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shubhamdukare123/leetcode/tree/master/0189-rotate-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/shubhamdukare123/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhamdukare123/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -152,4 +153,8 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/shubhamdukare123/leetcode/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shubhamdukare123/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
