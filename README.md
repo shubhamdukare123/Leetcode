@@ -64,6 +64,7 @@ this repository is created for maintain my leetcode solved problem codes created
 | [0001-two-sum](https://github.com/shubhamdukare123/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shubhamdukare123/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shubhamdukare123/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/shubhamdukare123/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shubhamdukare123/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/shubhamdukare123/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shubhamdukare123/leetcode/tree/master/0189-rotate-array) |
@@ -86,6 +87,7 @@ this repository is created for maintain my leetcode solved problem codes created
 | ------- |
 | [0011-container-with-most-water](https://github.com/shubhamdukare123/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shubhamdukare123/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/shubhamdukare123/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shubhamdukare123/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhamdukare123/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shubhamdukare123/leetcode/tree/master/0189-rotate-array) |
