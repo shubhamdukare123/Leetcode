@@ -145,6 +145,7 @@ this repository is created for maintain my leetcode solved problem codes created
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shubhamdukare123/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/shubhamdukare123/leetcode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/shubhamdukare123/leetcode/tree/master/1013-fibonacci-number) |
 ## Sorting
@@ -173,4 +174,8 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/shubhamdukare123/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shubhamdukare123/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
