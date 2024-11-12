@@ -100,6 +100,7 @@ this repository is created for maintain my leetcode solved problem codes created
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shubhamdukare123/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/shubhamdukare123/leetcode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/shubhamdukare123/leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhamdukare123/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/shubhamdukare123/leetcode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamdukare123/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -166,6 +167,7 @@ this repository is created for maintain my leetcode solved problem codes created
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shubhamdukare123/leetcode/tree/master/0020-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/shubhamdukare123/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Design
 |  |
