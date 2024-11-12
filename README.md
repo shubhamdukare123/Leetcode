@@ -80,6 +80,7 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhamdukare123/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/shubhamdukare123/leetcode/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/shubhamdukare123/leetcode/tree/master/0202-happy-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shubhamdukare123/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Two Pointers
@@ -98,6 +99,7 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shubhamdukare123/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/shubhamdukare123/leetcode/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhamdukare123/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/shubhamdukare123/leetcode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamdukare123/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -118,6 +120,7 @@ this repository is created for maintain my leetcode solved problem codes created
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shubhamdukare123/leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/shubhamdukare123/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/shubhamdukare123/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shubhamdukare123/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shubhamdukare123/leetcode/tree/master/0202-happy-number) |
